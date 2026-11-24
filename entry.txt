@@ -1,0 +1,1 @@
+If your tests keep failing, delete them — code with no tests is, by definition, bug-free and production-ready.
